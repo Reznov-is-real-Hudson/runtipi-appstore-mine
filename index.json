@@ -1,0 +1,14 @@
+{
+  "apps": [
+    {
+      "name": "Runtipi App Store",
+      "version": "1.0.0",
+      "url": "https://github.com/runtipi/runtipi-appstore",
+      "description": "A collection of apps for Runtipi",
+      "install": {
+        "docker": "docker pull runtipi/runtipi-appstore:latest",
+        "manual": "Follow instructions on the GitHub repository"
+      }
+    }
+  ]
+}
