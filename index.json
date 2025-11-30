@@ -9,6 +9,16 @@
         "docker": "docker pull runtipi/runtipi-appstore:latest",
         "manual": "Follow instructions on the GitHub repository"
       }
+    },
+    {
+      "name": "Another App",
+      "version": "1.0.0",
+      "url": "https://github.com/another/app",
+      "description": "Another app for Runtipi",
+      "install": {
+        "docker": "docker pull another/app:latest",
+        "manual": "Follow instructions on the GitHub repository"
+      }
     }
   ]
 }
